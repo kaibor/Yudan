@@ -1,0 +1,9 @@
+C:\Users\Admin\RiderProjects\Yudan\Yudan\bin\Debug\netcoreapp2.1\Yudan.deps.json
+C:\Users\Admin\RiderProjects\Yudan\Yudan\bin\Debug\netcoreapp2.1\Yudan.dll
+C:\Users\Admin\RiderProjects\Yudan\Yudan\bin\Debug\netcoreapp2.1\Yudan.pdb
+C:\Users\Admin\RiderProjects\Yudan\Yudan\obj\Debug\netcoreapp2.1\Yudan.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Yudan\Yudan\obj\Debug\netcoreapp2.1\Yudan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Yudan\Yudan\obj\Debug\netcoreapp2.1\Yudan.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Yudan\Yudan\obj\Debug\netcoreapp2.1\Yudan.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Yudan\Yudan\obj\Debug\netcoreapp2.1\Yudan.dll
+C:\Users\Admin\RiderProjects\Yudan\Yudan\obj\Debug\netcoreapp2.1\Yudan.pdb
